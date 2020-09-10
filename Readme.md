@@ -25,3 +25,5 @@ Negative values - left, Positive values - right;
 - `test_data.csv`: Contain files names of the test set, person id, sequence id for each person. You need to predict the tilt/pan for this data and submit the prediction via canvas. The teaching team will use this data to evaluate the performance of the model you have developed.
 
 - `s1234567_predictions.csv`: This is the template for prediction submission. You should organize your predictions in this format. Any deviation from this format will result on zero marks for the results part. Change the number to your student ID.
+
+- `assingment1.ipynb`: This File is jupyter notebook for pridicting angles of face.
